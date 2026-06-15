@@ -1,4 +1,4 @@
-# 🇺🇸 USA Apartment Rental Data Dashboard
+# 🇺🇸 US Apartment Rental Market Analysis
 
 An interactive data visualization and analysis dashboard built with **Python, Dash, and Plotly** to explore apartment rental listings across the United States.
 
@@ -55,8 +55,8 @@ Follow these steps to run the dashboard locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/furkngoksu/dashboard-app.git
-cd dashboard-app
+git clone https://github.com/furkngoksu/US-Apartment-Rental-Analysis.git
+cd US-Apartment-Rental-Analysis
 ```
 
 ### 2. Install Dependencies
