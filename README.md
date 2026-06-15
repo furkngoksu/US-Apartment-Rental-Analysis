@@ -1,7 +1,7 @@
 # 🇺🇸 US Apartment Rental Market Analysis
 
 > [!NOTE]
-> This project was developed as a term project for the **YZV311 - Data Mining** course at Istanbul Technical University (ITU) together with [Deniz Topal](https://github.com/Deniztpl).
+> This project was developed as part of the **YZV 311 - Data Mining** course at Istanbul Technical University (ITU).
 
 An interactive data visualization and analysis dashboard built with **Python, Dash, and Plotly** to explore apartment rental listings across the United States.
 
